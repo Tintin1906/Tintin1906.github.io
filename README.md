@@ -7,6 +7,6 @@
   
   [AUTHENTICATION](authentication)
 
-  [Encryption](Encryption)
+  [Encryption](encryption)
   
   [My Friend](https://nisita0309.github.io/Nisita.github.io/)
