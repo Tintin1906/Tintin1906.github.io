@@ -7,3 +7,8 @@ Encryption
       - กระบวนการแปลงข้อความจากรูปแบบข้อความธรรมดาเป็นข้อความที่เข้ารหัส
   - Gemini
       - 
+
+
+- [Gartner Glossary](https://www.gartner.com/en/glossary/all-terms)
+  - the process of systematically encoding a bit stream before transmission so that an unauthorized party cannot decipher it.
+
