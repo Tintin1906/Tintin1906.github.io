@@ -9,4 +9,4 @@
 
   [Encryption](Encryption)
   
-  [My Friend](https://github.com/Nisita0309/Nisita.github.io)
+  [My Friend](https://nisita0309.github.io/Nisita.github.io/)
