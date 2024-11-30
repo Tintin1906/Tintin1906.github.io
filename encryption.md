@@ -14,7 +14,7 @@ Encryption
   - the process of systematically encoding a bit stream before transmission so that an unauthorized party cannot decipher it.
 
   - ChatGPT
-      - 
+      - กระบวนการเข้ารหัสข้อมูลในรูปแบบบิตสตรีมอย่างเป็นระบบก่อนการส่งข้อมูล เพื่อป้องกันไม่ให้บุคคลที่ไม่ได้รับอนุญาตสามารถถอดรหัสหรือเข้าใจข้อมูลได้
   - Gemini
       - การเข้ารหัสเป็นกระบวนการเข้ารหัสสตรีมบิตก่อนการส่งผ่านเพื่อให้บุคคลที่ไม่ได้รับอนุญาตไม่สามารถถอดรหัสได้
         
