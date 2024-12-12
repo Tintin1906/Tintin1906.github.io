@@ -3,7 +3,7 @@
 - Pariyakorn
   - Fartin
 
-  ![alt text](IMG_8647.jpeg)
+  ![alt text](image/IMG_8647.jpeg)
   
   [AUTHENTICATION](authentication)
 
