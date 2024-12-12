@@ -1,4 +1,4 @@
-## 6530250425.github.io
+## Tintin1906.github.io
 
 - Pariyakorn
   - Fartin
