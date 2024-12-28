@@ -1,6 +1,3 @@
-## *Data Quality  : Timeliness*
-### *Data Latency*
-
 <div align="center">
 
 ## Data Quality : Timeliness  
