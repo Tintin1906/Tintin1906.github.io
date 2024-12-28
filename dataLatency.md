@@ -1,13 +1,11 @@
 <div align="center">
-
+  
 ## *Data Quality : Timeliness*
-
 </div>
 
 <div align="center">
   
 ### *Data Latency*
-
 </div>
 
 ### *Definitiony*
