@@ -1,7 +1,7 @@
 <div align="center">
 
-## Data Quality : Timeliness  
-### Data Latency
+## <span style="color:blue;">Data Quality : Timeliness</span>
+### <span style="color:#ADD8E6;">Data Latency</span>
 
 </div>
 
