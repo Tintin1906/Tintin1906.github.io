@@ -7,7 +7,7 @@
     In computer networking and internet communications, data latency is the time it takes data to travel from a source to a destination.
 
 
-[Source]((https://www.techtarget.com/searchcio/definition/data-latency))
+[Source](https://www.techtarget.com/searchcio/definition/data-latency)
   
   - ### *ChatGPT*
       - Data Latency หมายถึง ความล่าช้าในการส่งหรือรับข้อมูล ในระบบหรือเครือข่ายต่าง ๆ ซึ่งเป็นช่วงเวลาระหว่างที่ข้อมูลถูกส่งจากต้นทางและมาถึงปลายทางที่ต้องการ การวัดค่าความล่าช้านี้มักใช้หน่วยเวลา เช่น มิลลิวินาที (ms)
