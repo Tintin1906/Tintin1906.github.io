@@ -8,7 +8,7 @@
 ### *Definitiony*
   - Data latency is the time it takes for data packets to be stored or retrieved. In computer networking and internet communications, data latency is the time it takes data to travel from a source to a destination.
 
-[Source](https://www.techtarget.com/searchcio/definition/data-latency)
+<u>[Source](https://www.techtarget.com/searchcio/definition/data-latency)</u>
 
   
   - ### *ChatGPT*
@@ -25,4 +25,4 @@
   -   การเล่นเกมออนไลน์ (Online Gaming) ในการเล่นเกมออนไลน์, ping หรือ latency คือระยะเวลาที่ใช้ในการส่งข้อมูลจากเครื่องของผู้เล่นไปยังเซิร์ฟเวอร์เกมและกลับ ถ้ามี data latency สูงจะทำให้เกิดการดีเลย์ (lag) และประสบการณ์การเล่นเกมแย่ลง
 
 
-[Back](README.md)
+<u>[Back](README.md)</u>
