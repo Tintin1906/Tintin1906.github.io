@@ -1,12 +1,12 @@
 <div align="center">
 
-## <span style="color:blue;">*Data Quality : Timeliness*</span>
+## *Data Quality : Timeliness*
 
 </div>
 
 <div align="center">
   
-### <span style="color:#ADD8E6;">*Data Latency*</span>
+### *Data Latency*
 
 </div>
 
