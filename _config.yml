@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+strong {
+    font-weight: bold;
+}
