@@ -1,6 +1,6 @@
-##  *Data Quality: Timeliness*
 <h2 align="center"><em>Data Quality: Timeliness</em></h2>
-## *Data Latency*
+<h2 align="center"><em>Data Latency</em></h2>
+
 
 ### *Definitiony*
   - Data latency is the time it takes for data packets to be stored or retrieved. In computer networking and internet communications, data latency is the time it takes data to travel from a source to a destination.
