@@ -6,7 +6,8 @@
 
 <div align="center">
   
-### *Data Latency*
+Data Latency
+
 </div>
 
 ### *Definitiony*
