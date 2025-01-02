@@ -1,6 +1,6 @@
 <div align="center">
   
-**Data Quality : Timeliness**
+<strong> Data Quality: Timeliness </strong> 
 
 </div>
 
