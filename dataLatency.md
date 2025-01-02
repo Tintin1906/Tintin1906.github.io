@@ -1,5 +1,5 @@
 ##  *Data Quality: Timeliness*
-
+<h2 align="center"><em>Data Quality: Timeliness</em></h2>
 ## *Data Latency*
 
 ### *Definitiony*
