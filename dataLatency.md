@@ -1,6 +1,4 @@
-<div align="center" style="font-weight: bold;">
-  Data Quality: Timeliness
-</div>
+##  *Data Quality: Timeliness*
 
 <div align="center" style="font-weight: bold;">
   Data Latency
