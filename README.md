@@ -14,3 +14,5 @@
   [⌛Data Quality > Timeliness](dataLatency.md)
   
   [♟️Boardgame](boardgame.md) 
+
+  [🔐SecurityControl](Security_Control.md) 
