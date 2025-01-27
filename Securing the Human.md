@@ -8,7 +8,7 @@
 
 เมื่อวันที่ 20 มกราคม 2568 ที่ผ่านมา กลุ่มนิสิตจากสาขาวิชาวิทยาการคอมพิวเตอร์ ภาคพิเศษ หรือ "csg" แห่งมหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา ได้จัดกิจกรรมสุดสร้างสรรค์เพื่อส่งเสริมความรู้ความเข้าใจด้านความมั่นคงปลอดภัยไซเบอร์ให้กับนิสิตจากคณะวิศวกรรมศาสตร์ มหาวิทยาลัยบูรพา
 
-<div style="display: flex; justify-content: center; gap: 16px;"> <img src="Img/IMG_6728.jpg" alt="image2" style="width: 45%;"> <img src="Img/IMG_6731.jpg" alt="image3" style="width: 30%;"> </div>
+<div style="display: flex; justify-content: center; gap: 16px;"> <img src="Img/IMG_6728.jpg" alt="image2" style="width: 45%;"> <img src="Img/IMG_6731.jpg" alt="image3" style="width: 35%;"> </div>
 
 ![image2](Img/IMG_6728.jpg)
 ![image3](Img/IMG_6731.jpg)
