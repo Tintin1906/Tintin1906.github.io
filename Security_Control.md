@@ -2,7 +2,7 @@
 
 ---
 
-## 🛗 Elevator Floor Lock System
+# 🛗 Elevator Floor Lock System
 
 ![image1](Images/IMG_7377.jpeg)
 
