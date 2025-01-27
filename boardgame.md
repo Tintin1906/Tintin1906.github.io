@@ -22,7 +22,7 @@
 
 กลุ่ม csg หวังว่ากิจกรรมในครั้งนี้จะเป็นจุดเริ่มต้นที่ดีในการสร้างเครือข่ายผู้ที่สนใจด้านความมั่นคงปลอดภัยไซเบอร์ และจะยังคงมีกิจกรรมดีๆ แบบนี้ออกมาให้ทุกคนได้ร่วมสนุกกันอย่างต่อเนื่อง
 
-[![Video](Img/IMG_6758.JPG)](https://youtu.be/ZcqnTYy32So)
+
 <div style="text-align: center;"> <a href="https://youtu.be/ZcqnTYy32So"> <img src="Img/IMG_6758.JPG" alt="Video Thumbnail" style="width: 50%; max-width: 300px;"> </a> </div>
 Click ที่ภาพเพื่อดูบรรยากาศการจัดกิจกรรม
 
