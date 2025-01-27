@@ -25,7 +25,7 @@
 
 <div style="text-align: center;"> <a href="https://youtu.be/ZcqnTYy32So"> <img src="Img/IMG_6758.JPG" alt="Video Thumbnail" style="width: 80%; max-width: 300px;"> </a> </div>
 Click ที่ภาพเพื่อดูบรรยากาศการจัดกิจกรรม
-
+<div style="text-align: center;"> alt="Click ที่ภาพเพื่อดูบรรยากาศการจัดกิจกรรม" </div>
 # 🙋🏻‍♀️ Team Members
 
 1. [Nisita Panichwaisawan]()
