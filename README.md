@@ -13,4 +13,4 @@
 
   [⌛Data Quality > Timeliness](dataLatency.md)
   
-  [♟️boardgame](boardgame.md) 
+  [♟️Boardgame](boardgame.md) 
