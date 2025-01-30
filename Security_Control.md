@@ -8,10 +8,10 @@
 
 Location: Elevator Floor Lock System ที่คอนโด **Notting hill** 
 
-
+<div> <p> </p> </div>
 **Access Control System for Elevators** หรือ **Elevator Floor Lock System** คือระบบที่ออกแบบมาเพื่อควบคุมการเข้าถึงชั้นต่างๆ ในลิฟต์ โดยจะทำงานร่วมกับ **Security Control** เพื่อเพิ่มระดับความปลอดภัยในอาคาร เช่น อาคารสำนักงาน คอนโดมิเนียม หรือโรงแรม
-
-
+<div> <p> </p> </div>
+<div> <p> </p> </div>
 ### **หลักการทำงานของ Access Control System**
 ระบบนี้ใช้ **Security Control** ในการระบุและจำกัดการเข้าถึงชั้นของลิฟต์ โดยอาศัยเทคโนโลยีดังนี้:
 
