@@ -6,11 +6,15 @@
 
 ![image1](Images/IMG_7377.jpeg)
 
+Location: Elevator Floor Lock System ที่คอนโด **Notting hill** 
+
 
 **Access Control System for Elevators** หรือ **Elevator Floor Lock System** คือระบบที่ออกแบบมาเพื่อควบคุมการเข้าถึงชั้นต่างๆ ในลิฟต์ โดยจะทำงานร่วมกับ **Security Control** เพื่อเพิ่มระดับความปลอดภัยในอาคาร เช่น อาคารสำนักงาน คอนโดมิเนียม หรือโรงแรม
 
+
 ### **หลักการทำงานของ Access Control System**
 ระบบนี้ใช้ **Security Control** ในการระบุและจำกัดการเข้าถึงชั้นของลิฟต์ โดยอาศัยเทคโนโลยีดังนี้:
+
 1. **Authentication (การยืนยันตัวตน):**
    - **Keycard หรือ RFID Card:** ผู้ใช้งานต้องแตะบัตรเพื่อปลดล็อกชั้นที่ได้รับอนุญาต
    - **Biometric Scanner:** เช่น ลายนิ้วมือหรือใบหน้า เพื่อยืนยันตัวบุคคล
