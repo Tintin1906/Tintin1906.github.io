@@ -4,7 +4,7 @@
 
 # 🛗 Elevator Floor Lock System
 
-![image1](Images/IMG_9879.jpeg)
+![image1](Images/IMG_9878.jpeg)
 ![image2](Images/IMG_9880.jpeg)
 
 
