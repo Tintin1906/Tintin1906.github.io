@@ -4,8 +4,8 @@
 
 # 🛗 Elevator Floor Lock System
 
-![image1](Images/IMG_9878.jpeg)
-![image2](Images/IMG_9880.jpeg)
+![image1](Img/IMG_9878.jpeg)
+![image2](Img/IMG_9880.jpeg)
 
 
 Location: Elevator Floor Lock System ที่คอนโด **Notting hill** 
