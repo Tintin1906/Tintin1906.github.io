@@ -15,4 +15,4 @@
   
   [♟️Boardgame](boardgame.md) 
 
-  [🔐SecurityControl](Security_Control.md) 
+  [🔐SecurityControl](security-control.md) 
