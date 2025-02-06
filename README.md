@@ -11,7 +11,7 @@
   
   [💌Christmas&NewYear_card](Christmas&NewYear_card)
 
-  [⌛Data Quality > Timeliness](dataLatency.md)
+  [⌛Data Quality > Timeliness](timeliness.md)
   
   [♟️Boardgame](boardgame.md) 
 
