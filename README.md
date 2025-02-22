@@ -17,4 +17,4 @@
 
   [🔐SecurityControl](security-control.md)
 
-  [🗳️Pao Election](Pao-election.md)
+  [🗳️Pao Election](pao-elections.md)
