@@ -1,4 +1,6 @@
-# **security-requirement**
+<p align="center">
+  <h1><b>SECURITY REQUIREMENT</b></h1>
+</p>
 ---
 ### **V2.6 Look-up Secret Verifier**
 
