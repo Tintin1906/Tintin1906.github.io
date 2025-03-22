@@ -1,7 +1,6 @@
 # **SECURITY REQUIREMENT**  
 ---
 ### **V2.6 Look-up Secret Verifier**
-
 **2.6.2**
 
 **Description**
