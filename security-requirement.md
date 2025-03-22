@@ -1,6 +1,17 @@
+security-requirement
+
 *V2.6 Look-up Secret Verifier* 
 
-2.6.1
+2.6.2
 
 Description
-Verify that lookup secrets can be used only once.
+  - Verify that lookup secrets have sufficient randomness (112 bits ofentropy), or if less than 112 bits of entropy, salted with a unique andrandom 32-bit salt and hashed with an approved one-way hash.
+
+  - ChatGPT
+      ตรวจสอบให้แน่ใจว่าคีย์ลับที่ใช้สำหรับการค้นหามีความเป็นสุ่มเพียงพอ (อย่างน้อย 112 บิตของเอนโทรปี) หรือหากมีเอนโทรปีน้อยกว่า 112 บิต ให้เพิ่มค่า **salt** ที่เป็นค่าแบบสุ่มและไม่ซ้ำกันขนาด 32 บิต และทำการแฮชด้วยฟังก์ชันแฮชทางเดียวที่ได้รับการรับรอง
+
+  - Gemini
+      ตรวจสอบว่าความลับในการค้นหา (lookup secrets) มีความเป็นสุ่มเพียงพอ (112 บิตของเอนโทรปี) หรือถ้ามีเอนโทรปีน้อยกว่า 112 บิต ให้เติมเกลือ (salted) ด้วยเกลือ (salt) ขนาด 32 บิตที่ไม่ซ้ำกันและสุ่ม และแฮช (hashed) ด้วยฟังก์ชันแฮชทางเดียวที่ได้รับการอนุมัติ
+
+Myself
+  - ตรวจสอบให้แน่ใจว่าคีย์ลับสำหรับการค้นหามีความสุ่มเพียงพอ (อย่างน้อย 112 บิตของเอนโทรปี) หรือถ้าน้อยกว่านั้น ให้เพิ่ม salt แบบสุ่ม 32 บิต แล้วแฮชด้วยฟังก์ชันแฮชที่เชื่อถือได้ 
